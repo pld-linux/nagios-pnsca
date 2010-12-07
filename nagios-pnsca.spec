@@ -9,7 +9,7 @@ Release:	0.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://git.op5.org/git/?p=nagios/pnsca.git;a=snapshot;h=7738b4d59fde56afb68cc78b0f43333ee808157a;sf=tgz#/pnsca.tgz
-# Source0-md5:	9a74736916fa321b88b5d1c4bd00bbca
+# Source0-md5:	4afe19942467f966282a4e6e90987032
 URL:		http://git.op5.org/git/?p=nagios/pnsca.git
 Requires:	nagios
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
